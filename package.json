@@ -5,7 +5,12 @@
   "scripts": {
     "start": "node ./bin/www"
   }
- 
+
 }
+"scripts": {
+    "start": "node src/index.html",
+    "build": "webpack" // This will now run on Heroku by default
+  }
+
 
  
