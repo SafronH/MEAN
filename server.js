@@ -1,3 +1,4 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["server"],{
 var express = require('express')
 var app = express()
 var bodyparser = require('body-parser')
@@ -75,4 +76,4 @@ function deleteTask(req, res) {
 
 app.listen('8080', function() {
   console.log('Server Running!!')
-})
+}})

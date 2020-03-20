@@ -1,3 +1,4 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["app"],{
 var app = angular.module('todoApp', [])
 
 app.controller('createTodoController', function($scope, $http) {
@@ -37,4 +38,4 @@ app.controller('myCtrl', function($scope, $http) {
       }
     )
   }
-})
+}})
