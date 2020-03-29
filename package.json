@@ -1,5 +1,6 @@
 
-{
+
+  {
     "name": "my_package",
     "description": "",
     "version": "1.0.0",
@@ -18,5 +19,13 @@
       "url": "https://github.com/SafronH/my_package/issues"
     },
     "homepage": "https://github.com/SafronH/my_package"
-
+  },
+   "scripts": {
+    "ng": "ng",
+    "start": "node server.js",
+    "dev": "ng serve",
+    "build": "ng build --prod",
+    "test": "echo \"Test is ignored\"",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
   }
