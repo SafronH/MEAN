@@ -1,6 +1,11 @@
 
 
   {
+  "scripts": {
+  "start": "node server.js"
+},
+
+  
     "name": "my_package",
     "description": "",
     "version": "1.0.0",
