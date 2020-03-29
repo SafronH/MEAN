@@ -19,6 +19,4 @@
     },
     "homepage": "https://github.com/SafronH/my_package"
 
-    "start": "node ./bin/www"
-  }
   }
