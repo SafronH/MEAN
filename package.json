@@ -1,13 +1,13 @@
 
 
   {
-  "scripts": {
+    "scripts": {
   "start": "node server.js"
-  "start": "npm run open"
+ 
 },
 
-  
-    "name": "my_package",
+
+    "name": "my_package", {  
     "description": "",
     "version": "1.0.0",
     "main": "main.js",
