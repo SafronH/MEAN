@@ -1,4 +1,17 @@
 {
+ "name": "safro",
+"version"" "1.0.0",
+"description": "",
+"main": "app.js",
+"scripts" {
+"test": echo \"Error: no test specified\"&& exit 1"
+},
+"author": """,
+"license":"ISC"
+
+}
+
+{
   "name": "mongodb_crud",
   "version": "1.0.0",
   "description": "Make sure to change into directory and run \"Npm install\" to download modules",
