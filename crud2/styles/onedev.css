@@ -1,0 +1,225 @@
+body {
+  background-color:#A8A8A8;
+  color: #3F2860;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+  background-color: #9BC1C2;
+  background-repeat: no-repeat;
+  	
+  height: 150px;
+  margin-bottom:15px;
+}
+
+h1 {
+  padding-top: 50px;
+  padding-left: 2em;
+}
+
+h2{
+  font-family:Bradley Hand, cursive;	
+  color: #96ceb7;
+  text-shadow: 1px 1px 1px black;
+  padding-left: 4em;
+        
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+nav {
+  text-align: center;
+  font-weight: bold;
+  padding: 1em;
+  background-color:#F5F5DC ;
+  
+}
+
+nav a {
+  text-decoration: none;
+  color:#6A5ACD;
+    
+}
+
+nav span:hover {
+	color: #800080; 
+        cursor: pointer;
+}
+
+a:hover {
+	color: #800080; 
+        cursor: pointer;
+}
+
+#photo 
+{
+  margin-top: 12px;
+}
+
+
+
+
+#wrapper {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:#F5F5DC ;
+  min-width: 1000px;
+  max-width: 1280px;
+}
+
+main {
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 20px;
+}
+
+.row 
+{
+  padding: 2em;
+  text-align: center;
+}
+
+
+footer {
+  background-color: #9BC1C2;
+  font-size: .60em;
+  font-style: italic;
+  text-align: center;
+  padding: 1em;
+}
+
+
+table, tr, th, td{
+    border: 2px solid;
+    font-size: 15px;
+    padding: 5px;
+    border: 1px solid #9BC1C2 ;
+    margin-right: auto;
+    margin-left: auto;
+       
+}
+a{	
+    text-decoration: none;
+    color: #3F2860;
+}
+
+.container,.container1, .container2  {
+
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 270px;
+    width: 270px;
+    margin-left: 35px; 
+    box-shadow: 4px 5px 7px black;
+    background-position: left;
+            
+}
+.container {
+background-image: url(../images/travel11.png);
+}
+.container1 {
+background-image: url(../images/dub.png);
+}
+.container2{
+	
+background-image: url(../images/paris.jpg);
+}
+
+
+.container:hover, .container1:hover,.container2:hover  {
+	
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 270px;
+    width: 270px;
+    margin-left: 35px; 
+    box-shadow: 4px 5px 7px black;
+    background-position: right;
+
+    
+}
+
+
+.container:hover {
+	 background-image: url(../travel11.png);
+}
+.container1:hover {
+background-image: url(../paris.jpg);
+}  
+ .container2:hover {
+background-image: url(../paris.jpg);
+}    
+ 
+
+
+
+
+
+
+/*One Div Graphic  --------------------------------------------------------*/
+
+
+body{
+padding-top:0px;
+background-color:#CCE2F1;
+background-image: -webkit-repeating-linear-gradient(0deg, transparent,
+transparent 35px, rgba(255,255,255,.3) 35px, rgba(255,255,255,.3) 70px);
+background-image: repeating-linear-gradient(90deg, transparent, transparent 35px, 
+rgba(255,255,255,.3) 35px, rgba(255,255,255,.3) 70px);}
+
+.shield{ width:460px; height:460px; margin:0 auto; position:relative; 
+background:#579FD2;
+border: 0px solid #EB3C37; border-radius:100%;
+box-shadow:inset -3px -3px 0 4px  rgba(0, 0, 0, .1) ,
+inset 5px 5px 0   rgba(255, 255, 255, .2) ,inset -80px -90px 0 175px  rgba(0, 0, 0, .06) ,
+inset -110px -80px 0 -1px  rgba(0, 0, 0, .1) ,inset 0 0 0 35px  #EB3C37 ,inset 0 0 0 70px #fff ,
+inset 0 0 0 115px #EB3C37 ,20px 20px 20px 10px rgba(0, 0, 0, .5); 
+
+
+}
+
+.shield:after{content:'';
+position:absolute;margin:auto;  
+top:160px;  left:-22px;
+border: solid ;
+border-color: #fff #fff transparent transparent;
+border-width:110px 160px 210px 335px;
+width:0px;height:0;z-index:9;
+    
+  -webkit-transform: scale(0.44) rotate(-68deg) skew(-50deg, 0deg);
+  -moz-transform:scale(0.44) rotate(-68deg) skew(-50deg, 0deg);
+   transform:scale(0.44) rotate(-68deg) skew(-50deg, 0deg); 
+}
+
+.shield:before{content:'';
+position:absolute; margin:auto; top:72px; bottom:0; right:0; left:0; 
+width:0px;height:0; z-index:9;border: solid ;
+border-color:#fff transparent transparent   transparent  ;
+border-width:60px 105px 90px 105px;
+}
+
+
+/*-------------end-----------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
