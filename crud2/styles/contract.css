@@ -1,0 +1,242 @@
+body {
+  background-color:#A8A8A8;
+  color: #3F2860;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+  background-color: #9BC1C2;
+  background-repeat: no-repeat;
+  	
+  height: 150px;
+  margin-bottom:15px;
+}
+
+h1 {
+  padding-top: 50px;
+  padding-left: 2em;
+}
+
+h2{
+  font-family:Bradley Hand, cursive;	
+  color: #96ceb7;
+  text-shadow: 1px 1px 1px black;
+  padding-left: 4em;
+        
+}
+
+h3 {
+text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+nav {
+  text-align: center;
+  font-weight: bold;
+  padding: 1em;
+  background-color:#F5F5DC ;
+  
+}
+
+nav a {
+  text-decoration: none;
+  color:#6A5ACD;
+    
+}
+
+nav span:hover {
+	color: #800080; 
+        cursor: pointer;
+}
+
+a:hover {
+	color: #800080; 
+        cursor: pointer;
+}
+
+#photo 
+{
+  margin-top: 12px;
+}
+
+
+
+
+#wrapper {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:#F5F5DC ;
+  min-width: 1000px;
+  max-width: 1280px;
+}
+
+main {
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 20px;
+}
+
+.row 
+{
+  padding: 2em;
+  text-align: center;
+}
+
+footer {
+  background-color: #9BC1C2;
+  font-size: .60em;
+  font-style: italic;
+  text-align: center;
+  padding: 1em;
+}
+
+
+table, tr, th, td{
+    border: 2px solid;
+    font-size: 15px;
+    padding: 5px;
+    border: 1px solid #9BC1C2 ;
+    margin-right: auto;
+    margin-left: auto;
+       
+}
+a{	
+    text-decoration: none;
+    color: #3F2860;
+}
+
+ /*sprites*/
+
+.sprites{
+  padding-top: 30px;
+  text-align: center;
+}
+.sprite {
+  background: url('../images/spritesheet2.png') no-repeat top left;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  
+}
+
+.sprite.travel {
+  background-position: 0 0;
+  display: inline-block;
+}
+
+.sprite.dub {
+  background-position: -310px 0;
+  display: inline-block;
+}
+
+.sprite.paris {
+  background-position: -620px 0;
+  display: inline-block;
+}
+
+/*-------end---------/*
+
+
+
+/*One Div Graphic logo  --------------------------------------------------------*/
+
+.parent
+{
+    background: beige;
+    height: 300px;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 30%;
+
+}
+.logo
+{
+  width: 10em;
+  height: 2em;
+  background: #FE020D;
+  border-radius: 7px;
+  position: relative;
+}
+  
+  .logo:after
+  {
+    content: 'Safron Travel Guide \00AE' ;
+    position: absolute;
+    top: -.14em;
+   left: 5.5em;
+    font-size: 2em;
+    color: #3F51B5;
+    font-family: 'Lucida Grande';
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: .03em;
+  }
+  
+  .logo:before
+  {
+    content: '';
+    display: block;
+    width: 4em;
+    height: 2em;
+    background: #FE020D;
+    border-radius: 7px;
+    position: absolute;
+    top: 3em;
+    box-shadow: 6em 0 0 #FE020D,
+                6em 3em 0 #FE020D,
+                0 3em 0 #FE020D;
+  }
+
+/*-------------end-----------------------------------------*/
+
+
+/*----------everything HTML----------*/
+
+.container {
+    display: flex;
+  }
+
+  #w3schools {
+    height:700px;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  #w3schools a {
+    display: block;
+    margin:auto;
+    
+  }
+
+
+/*--------end--------*/
+
+
+/*-- everthing html--*/
+#top { 
+color:green;
+
+}
+/**-------end......*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
