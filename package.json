@@ -1,5 +1,5 @@
  "scripts": {
-    "start" : "app.js"
+    "start" : "node app.js"
  }
  "scripts": {
         "heroku-postbuild": "npm run build"
