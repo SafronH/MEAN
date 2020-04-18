@@ -1,0 +1,23 @@
+<h4>Mission Statement</h4>
+
+<p>Safron&#39;s travel guide&reg; is a family-based family vacation planning service. We stand out by satisfying the needs of our clients through a comprehensive family friendly guides in destinations around the world smarter, cheaper, and longer.</p>
+
+
+<h4> Color Scheme:</h4>
+<ul>
+<li>Background-color:#9BC1C2; </li>
+<li>Background-color:#A8A8A8;</li>
+<li>Background-color:#F5F5DC</li>
+
+</ul>
+<h4>Font Colors</h4>
+<ul>
+<li>color: #3F2860; </li>
+<li>color: #96ceb7; </li>
+<li>color: #FF6600;</li>
+</ul>
+<h4>Font Style</h4>
+<ul>
+<li>Font-family:Bradley Hand, cursive; </li>
+<li>font-family: Verdana, Arial, sans-serif;  </li>
+</ul>

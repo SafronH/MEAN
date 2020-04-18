@@ -1,0 +1,120 @@
+&lt;!--...--&gt;||Use this tag to put comments on your code to explain what you're doing for future developers.||Example:<a href="https://www.w3schools.com/tags/tag_comment.asp">Click w3schools link</a>||<a href="#top">Back to Top</a>|| 
+&lt;!DOCTYPE&gt;||Doctype tells the browser certain things about how to render your page.||Example:<a href="https://www.w3schools.com/tags/tag_doctype.asp">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;a&gt;||This is the hyperlink tag, used to make links to take users to another page or location on the current page.||Example:<a href="https://www.w3schools.com/tags/tag_a.asp">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;abbr&gt;||This defines an abbreviation for the browser's information.||Example:<br>Welcome to <abbr title="Safron's Travel Guide;">STG&reg;</abbr>||<a href="#top">Back to Top</a>||
+&lt;acronym&gt;||Deprecated version of the abbr tag, not supported in HTML 5.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;address&gt;||Tells the browser this is contact information for the owner of the document or article.||Example:<a href="https://www.w3schools.com/tags/tag_address.asp">Click w3schools link.</a>||<a href="#top">Back to Top</a>||
+&lt;applet&gt;||Formerly designated an applet for the page, but has since been replaced by the embed or object tags. ||Example:Not Supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;area&gt;||Defines a specific area in an image. ||Example: <a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_areamap">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;article&gt;||Used to denote content that is seperate from the main site.||Example:<a href="https://www.w3schools.com/tags/tag_article.asp"> Click w3schools link </a>||<a href="#top">Back to Top</a>||
+&lt;aside&gt;||Aside is a reference of something related to the content on the page.||Example:<a href="https://www.w3schools.com/tags/tag_aside.asp">Click w3schools link </a>||<a href="#top">Back to Top</a>||
+&lt;audio&gt;||Audio refers to sound content to be played in the browser.||Example:<a href="https://www.w3schools.com/tags/tag_audio.asp">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;b&gt;||B stands for BOLD to make text stand out from its surrounding content.||Example:<br>This is <b>Safron's Travel Guide® in bold!</b>||<a href="#top">Back to Top</a>||
+&lt;base&gt;||Base is the reference location other URLs will branch out from.||Example:<a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_base_test">Click w3schools link!</a>||<a href="#top">Back to Top</a>||
+&lt;basefont&gt;||Basefont is no longer supported in HTML 5, but was previously used to specify default font settings on the page.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;bdi&gt;||Short for Bi-Directional, this tells the browser that the tagged text may be oriented in an unknown direction.||Example:<a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_bdi">Click w3schools link!</a>||<a href="#top">Back to Top</a>||
+&lt;bdo&gt;||Short for Bi-Directional Override, this forces the text into a specified direction.||Example:<br>This paragraph will go left-to-right. <bdo dir="rtl">Safron's Travel Guide®</bdo>||<a href="#top">Back to Top</a>||
+&lt;big&gt;||No longer supported in HTML 5, but functioned similar to changing the font size.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;blockquote&gt;||Applies formatting to a quote by pulling it slightly away from the surrounding text.||Example:<a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_blockquote_test">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;body&gt;||This is the main body of content on the page. Everything you want to appear in the browser between the header & footer goes here.||Example:<a href="https://www.w3schools.com/tags/tag_body.asp">Click w3schools link!</a><br></p>||<a href="#top">Back to Top</a>||
+&lt;br&gt;||This is the line break tag, used to seperate elements on the page.||Example:<br>The next tag is br <br> Safron's Travel Guide®</p>||<a href="#top">Back to Top</a>||
+&lt;button&gt;||Used to define a button object that can be tied to many different purposes, such as executing script.||Example:<br><button type="button">Click Safron's Travel Guide®</button></p>||<a href="#top">Back to Top</a>||
+&lt;canvas&gt;||Creates an image area that uses JavaScript to draw graphics.||Example||<a href="#top">Back to Top</a>||
+&lt;caption&gt;||Creates a caption to be used with a table.||Example||<a href="#top">Back to Top</a>||
+&lt;center&gt;||Centered text on a page, but has been replaced with CSS.||Example||<a href="#top">Back to Top</a>||
+&lt;cite&gt;||Specifies the title of a document, album, artwork, etc.||Example||<a href="#top">Back to Top</a>||
+&lt;code&gt;||Defines a block of computer code, but is better handled with CSS.||Example:<br><code>Safron's Travel Guide®</code></p||<a href="#top">Back to Top</a>||
+&lt;col&gt;||Sets properties of columns in the COLGROUP tag.||Example:<table><colgroup><col span="2" style="background-color:olive"><col style="background-color:gray"></colgroup><tr><th>Customer Name</th><th>Destination</th><th>Cost</th></tr><tr><td>Safron</td><td>Paris</td><td>$780</td></tr><tr><td>D.I</td><td>Dubai </td><td>$799</td></tr></table>||<a href="#top">Back to Top</a>||
+&lt;colgroup&gt;||Defines a group of columns that form a table.||Example::<br><table><colgroup><col span="2" style="background-color:gold"><col style="background-color:CornflowerBlue"></colgroup><tr><th>ISBN</th><th>Title</th><th>Price</th></tr><tr><td>3476896</td><td>HTML and CSS Book</td><td>$45</td></tr><tr><td>5869207</td><td>JavaScript Book</td><td>$39</td></tr></table>||<a href="#top">Back to Top</a>||
+&lt;data&gt;||This links machine readable information with end user readable values.||Example:<br>World's best places to visit.<br></p><ul><li><data value="21053">Paris</data></li><li><data value="21054">Dubai</data></li><li><data value="21055">Thailand</data></li></ul>||<a href="#top">Back to Top</a>||
+&lt;datalist&gt;||A datalist is a pre-defined list of options for users in the INPUT tag.||Example:<br></p><form action="/action_page.php" method="get"><input list="itemType" name="itemType"><datalist id="itemType"><option value="Paris"><option value="Dubai"><option value="London"><option value="New York"><option value="Chicago"></datalist><input type="submit"></form>||<a href="#top">Back to Top</a>||
+&lt;dd&gt;||DD assigns a definition to an item in a description list.||Example:<dl><dt>Coffee</dt><dd>Black hot drink.</dd><dt>Milk</dt><dd>White cold drink.</dd></dl>||<a href="#top">Back to Top</a>||
+&lt;del&gt;||Used to show in the browser that text has been deleted.||Example:<p>My favorite site is <del>HCB Travel.com</del> (not sure). It's: <ins>Safron's Travel Guide®</ins></p>||<a href="#top">Back to Top</a>||
+&lt;details&gt;||Gives the user the option to show or hide additional details.||Example||<a href="#top">Back to Top</a>||
+&lt;dfn&gt;||Used to reference the defining instance of a term in a document.||Example||<a href="#top">Back to Top</a>||
+&lt;dialog&gt;||Opens a pop-up dialog box or window.||Example||<a href="#top">Back to Top</a>||
+&lt;dir&gt;||Not supported in HTML 5, but was used to create a directory list.||Example||<a href="#top">Back to Top</a>||
+&lt;div&gt;||A DIV is a containter within the body of a page. DIVs allow you to define seperate content while remaining on the same page.||Example||<a href="#top">Back to Top</a>||
+&lt;dl&gt;||DL is short for Description List, used with DD & DT tags.||Example||<a href="#top">Back to Top</a>||
+&lt;dt&gt;||Used with the Description list to create a description title to be follows with a DD tag.||Example:<a href="https://www.w3schools.com/tags/tag_dt.asp">Click w3school link! </a>||<a href="#top">Back to Top</a>||
+&lt;em&gt;||EM is short for emphasised text & functions similar to BOLD.||Example:<br><em>Safron's Travel Guide®</em> is emphasized text||<a href="#top">Back to Top</a>||
+&lt;embed&gt;||Used to link non-HTML content on the page from an outside source.||Example:<a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_embed">Example: Click w3schools link! </a>||<a href="#top">Back to Top</a>||
+&lt;fieldset&gt;||Used to group related elements in a form.||Example:<br><form><fieldset><legend>Personal Information:</legend>First Name: <input type="text"><br> Last Name: <input type="text"><br>Email: <input type="text"><br> Phone: <input type="text"><br></fieldset></form>||<a href="#top">Back to Top</a>||
+&lt;figcaption&gt;||Like the CAPTION tag, but specific to a FIGURE object.||Example:<br></p><figure><img src="http://students.cpcc.edu/~shaile01/web215/images/vacation.jpg" alt="Safron" width="304"><figcaption>Fig.1 - Best vacation spots in the world.</figcaption></figure>||<a href="#top">Back to Top</a>||
+&lt;figure&gt;||Creates a seperate section of self-contained content, usually an image.||Example:<br></p><figure><img src="http://students.cpcc.edu/~shaile01/web215/images/vacation.jpg" alt="Safron" width="304"></figure>||<a href="#top">Back to Top</a>||
+&lt;font&gt;||Replaced by CSS, but was originally used to define the font used in the browser.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;footer&gt;||Defines the footer to display at the bottom of the page after all the body content.||Example:<br></p><p>Safron's Travel Guide® Created by: Safron</p><p>Contact info: <a href="mailto:shaile01@email.cpcc.edu">shaile01@email.cpcc.edu</a></p>||<a href="#top">Back to Top</a>||
+&lt;form&gt;||Creates a form to store user input.||Example:<br><form action="/action_page.php" method="get">First name: <input type="text" name="fname" placeholder="Safron"><br> Last name: <input type="text" name="lname" placeholder="Haile"><br><input type="submit" value="Submit"></form>||<a href="#top">Back to Top</a>||
+&lt;frame&gt;||An individual part of the FRAMESET object with it's own formatting.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;frameset&gt;||No longer supported, but was a containter for individual FRAME objects.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;h1 to h6&gt;||Headings of various sizes to seperate & label content on the page.||Example||<a href="#top">Back to Top</a>||
+&lt;head&gt;||HEAD defines references for the entire page.||Example||<a href="#top">Back to Top</a>||
+&lt;header&gt;||HEADER is informtion & content at the top of the page before the main body.||Example||<a href="#top">Back to Top</a>||
+&lt;hr&gt;||HR is an acronym for Horizontal Row & signifies a change in theme.||Example||<a href="#top">Back to Top</a>||
+&lt;html&gt;||HTML tells the browser what DOCTYPE format to use.||Example||<a href="#top">Back to Top</a>||
+&lt;i&gt;||I is used to italicize specific text on the page.||Example||<a href="#top">Back to Top</a>||
+&lt;iframe&gt;||Creates an inline frame to embed a document from an external source.||Example:<a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_iframe"><br><br>Click w3schools link!||<a href="#top">Back to Top</a>||
+&lt;img&gt;||IMG specifies that an image will be used.||Example:<br><img src="http://students.cpcc.edu/~shaile01/web215/images/spritesheet2.png" width="400" alt="Safron"><br>||<a href="#top">Back to Top</a>||
+&lt;input&gt;||The INPUT tag tells the browser to expect the user to enter data.||Example||<a href="#top">Back to Top</a>||
+&lt;ins&gt;||Like the DEL tag, this tells the user that text has been inserted into the document.||Example::<br>My favorite color is <del>blue</del> <ins>red</ins>!||<a href="#top">Back to Top</a>||
+&lt;kbd&gt;||KBD is an abbreviation used to denote keyboard input.||Example:<br><kbd>Travel Smarter, cheaper, longer....</kbd>||<a href="#top">Back to Top</a>||
+&lt;label&gt;||Used with the INPUT tag to provide the user with a label for the data to be entered.||Example:<br><form action="/action_page.php"><label for="paris">Paris</label><input type="radio" name="city" id="paris" value="paris"><br><label for="dubai">Dubai</label><input type="radio" name="city" id="dubai" value="dubai"><br><label for="other">Other</label><input type="radio" name="city" id="other" value="other"><br><br><input type="submit" value="Submit"></form>||<a href="#top">Back to Top</a>||
+&lt;legend&gt;||LEGEND is another CAPTION but used with the FIELDSET tag.||Example:<br><form><fieldset><legend>This is the legend!</legend>Name: <input type="text" size="40"><br> Email: <input type="text" size="40"></fieldset></form>||<a href="#top">Back to Top</a>||
+&lt;li&gt;||LI stands for list items, used with ordered & unordered lists.||Example:<br></p><ul><li>Coffee</li><li>Tea</li><li>Milk</li></ul>||<a href="#top">Back to Top</a>||
+&lt;link&gt;||LINK defines the relationship between the current document & an external source, like a style sheet.||Example:<br>&lt;link rel="stylesheet" type="text/css" href="theme.css"&gt;||<a href="#top">Back to Top</a>||
+&lt;main&gt;||Used to specify the main content of the document & unique to that page.||Example||<a href="#top">Back to Top</a>||
+&lt;map&gt;||Defines an image map with clickable areas.||Example:<a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_areamap">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;mark&gt;||MARK is used to highlight specifictext within a section.||Example:<br> <mark>Travel Smarter, cheaper, longer....</mark>||<a href="#top">Back to Top</a>||
+&lt;menu&gt;||Defines a MENU object that will have a list of items in it.||Example:<br>&lt;menu type="context" id="mymenu"&gt;||<a href="#top">Back to Top</a>||
+&lt;menuitem&gt;||Used for indivudual tiems in a pop up with the MENU tag.Only supported in Firefox.||Example||<a href="#top">Back to Top</a>||
+&lt;meta&gt;||Defines the meta data for the browser to render the page.||Example:<br>&lt;meta charset="UTF-8"&gt;||<a href="#top">Back to Top</a>||
+&lt;meter&gt;||Displays a meter showing how full a bar is in a given range.||Example:<br><meter value="2" min="0" max="10">2 out of 10</meter><br><meter value="0.6">60%</meter>||<a href="#top">Back to Top</a>||
+&lt;nav&gt;||Used to create a group of navigation links on the page.||Example:<br></p><nav><a href="/html/">HTML</a> |<a href="/css/">CSS</a> |<a href="/js/">JavaScript</a> |<a href="/jquery/">jQuery</a></nav>||<a href="#top">Back to Top</a>||
+&lt;noframes&gt;||Not supported in HTML 5, but used for alternate content for users who cannot use FRAMEs.||Example:Not supported in HTML5||<a href="#top">Back to Top</a>||
+&lt;noscript&gt;||Provides alternate content when scripts cannot be loaded on the page.||Example:<br>&lt;noscript&gt; Sorry, your browser does not support JavaScript!&lt;/noscript&gt;||<a href="#top">Back to Top</a>||
+&lt;object&gt;||Specifies a external objects to be embedded in the page.||Example <a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_object">Click w3schools link! </a>||<a href="#top">Back to Top</a>||
+&lt;ol&gt;||Used to define an ordered list.||Example:<br><ol><li>Paris</li><li>Dubai</li><li>Chicago</li></ol>||<a href="#top">Back to Top</a>||
+&lt;optgroup&gt;||Creates a group of options to be used with a drop-down list.||Example:<br><select><optgroup label="Swedish Cars"><option value="ambulance">Volvo</option><option value="helicopter">Saab</option></optgroup><optgroup label="German Cars"><option value="mercedes">Mercedes</option><option value="audi">Audi</option></optgroup></select>||<a href="#top">Back to Top</a>||
+&lt;option&gt;||Defines a single option within a drop-down list.||Example:<br><select><option value="ambulance">Paris</option><option value="helicopter">Dubai</option><option value="plane">Italy</option></select>||<a href="#top">Back to Top</a>||
+&lt;output&gt;||Used to denote where the output of a calculation will be used or displayed.||Example:||<a href="#top">Back to Top</a>||
+&lt;p&gt;||P is short for paragraph & is used to create seperate blocks of text on the page.||Example||<a href="#top">Back to Top</a>||
+&lt;param&gt;||Short for parameter, this tag is used then information from one source will be bapssed to another, usually for some kind of function.||Example||<a href="#top">Back to Top</a>||
+&lt;picture&gt;||Creates a container for multiple images to be placed.||Example:<a href="https://www.w3schools.com/tags/tag_picture.asp">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;pre&gt;||Used to define pre-formatted text.||Example:<pre>Text in a pre elementis displayed in a fixed-widthfont,and it preserves both   spaces andline breaks</pre>||<a href="#top">Back to Top</a>||
+&lt;progress&gt;||Used to show the progress of a certain task. Similar to METER.||Example:<br><progress value="22" max="100"></progress>||<a href="#top">Back to Top</a>||
+&lt;q&gt;||Q is short for quotation, which has its own formatting applied.||Example:<br><q>I want to vacation so long, I forget all my passwords.</q>||<a href="#top">Back to Top</a>||
+&lt;rp&gt;||Alternate information to display when a browser doesn't support RUBY.||Example:<br><ruby>漢 <rp>(</rp><rt>kan</rt><rp>)</rp>字 <rp>(</rp><rt>ji</rt><rp>)</rp></ruby>||<a href="#top">Back to Top</a>||
+&lt;rt&gt;||Provides rules on pronunciation or a description of a term.||Example:<br><ruby>漢 <rt> ㄏㄢˋ </rt></ruby><br><a href="#top">Back to Top</a></div>                
+&lt;ruby&gt;||Defines code that will be processed by RUBY.||Example:<br><ruby>漢 <rt> ㄏㄢˋ </rt></ruby>||<a href="#top">Back to Top</a>||
+&lt;s&gt;||S is short for strike-through, used to indicate that the text has been found incorrect.||Example:<br>this is correct <s>This is wrong </s>||<a href="#top">Back to Top</a>||
+&lt;samp&gt;||Short for sample, this tag displays a small sample of code output.||Example:<br><samp>Sample output from a computer program.“I want to vacation so long, I forget all my passwords.</samp>||<a href="#top">Back to Top</a>||
+&lt;script&gt;||Tells the browser that server-side sript will be run.||Example:<br> &lt;script&gt; document.getElementById("demo").innerHTML = "Hello JavaScript!"; &lt;/script&gt;||<a href="#top">Back to Top</a>||
+&lt;section&gt;||Used to denote a specific section of text.||Example||<a href="#top">Back to Top</a>||
+&lt;select&gt;||Creates the object that contains a drop-down list.||Example:<br><select><option value="brand">Safron's Travel Guide®</option><option value="city">Paris</option><option value="city">London</option><option value="city">Dubai</option></select>||<a href="#top">Back to Top</a>||
+&lt;small&gt;||Specifies that text will appear smaller that the text surrounding it.||Example||<a href="#top">Back to Top</a>||
+&lt;source&gt;||Defines multiple media resources for media elements.||Example:<br><audio controls><source src="horse.mp3" type="audio/mpeg"></audio>||<a href="#top">Back to Top</a>||
+&lt;span&gt;||A <span> element used to color a part of a text.||Example:<br>hello this is <span style="color:green">span</span>!||<a href="#top">Back to Top</a>||
+&lt;strike&gt;||Replaced by the S tag, this performs the same task, but is no longer supported in HTML 5.||Example:Not supported in HTML5.||<a href="#top">Back to Top</a>||
+&lt;strong&gt;||This tag denotes important text compared to the information surrounding it.||Example:<br><strong>Travel Smarter, cheaper, longer....</strong>||<a href="#top">Back to Top</a>||
+&lt;style&gt;||STYLE is a reference to a style sheet that provides information on formatting content throughout the page.||Example:<br> &lt;style&gt; h1 {color:red;} p {color:blue;} &lt;/style&gt;||<a href="#top">Back to Top</a>||
+&lt;sub&gt;||Short for subscript, it means the text will appear smaller & slightly below the text around it.||Example||<a href="#top">Back to Top</a>||
+&lt;summary&gt;||Allows the user to show or hide content within a DETAILS container.||Example:<br><details><summary>Copyright 1999-2020.</summary><p> - by Refsnes Data. All Rights Reserved.</p><p>All content and graphics on this web site are the property of the company Refsnes Data.</p></details>||<a href="#top">Back to Top</a>||
+&lt;sup&gt;||Short for superscript, the text will appear slightly smaller & above the text surrounding it.||Example||<a href="#top">Back to Top</a>||
+&lt;table&gt;||Defines a table object.||Example:||<a href="#top">Back to Top</a>||
+&lt;tbody&gt;||Defines the body content of a TABLE object.||Example:<br></p><table><caption>Council budget (in £) 2018</caption><thead><tr><th>Items</th><th scope="col">Expenditure</th></tr></thead><tbody><tr><th scope="row">Donuts</th><td>3,000</td></tr><tr><th scope="row">Stationery</th><td>18,000</td></tr></tbody></table>||<a href="#top">Back to Top</a>||
+&lt;td&gt;||TD stands for table data & specifies the individual cells in the TABLE object.||Example:<br><table><tr><td>Cell A</td><td>Cell B</td></tr></table>||<a href="#top">Back to Top</a>||
+&lt;template&gt;||Used to contain information you want to keep hidden until called for later.||Example||<a href="#top">Back to Top</a>||
+&lt;textarea&gt;||Creates a defined area to contain text in a seperate frame.||Example:<br><textarea rows="4" cols="50">At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies.</textarea>||<a href="#top">Back to Top</a>||
+&lt;tfoot&gt;||Defines the footer for a TABLE.||Example||<a href="#top">Back to Top</a>||
+&lt;th&gt;||TH stands for table header, used to give column titles in a TABLE.||Example:<br></p><table><tr><th>Month</th><th>Savings</th></tr><tr><td>January</td><td>$100</td></tr></table>||<a href="#top">Back to Top</a>||
+&lt;thead&gt;||Short for table header, this provides a header for the entire TABLE.||Example||<a href="#top">Back to Top</a>||
+&lt;time&gt;||Used to format the date and/or time dsiplayed.||Example:<br>We open at <time>08:00</time> every morning.||<a href="#top">Back to Top</a>||
+&lt;title&gt;||Tells the browser what to use as the name of the web page.||Example||<a href="#top">Back to Top</a>||
+&lt;tr&gt;||TR stands for table row & provides a label for the row of contents in a TABLE.||Example||<a href="#top">Back to Top</a>||
+&lt;track&gt;||Used to determine what information is displayed as video or audio is being played.||Example||<a href="#top">Back to Top</a>||
+&lt;tt&gt;||Not supported in HTML 5, but was used to define teletype formatting.||Example:Not supported in HTML5||<a href="#top">Back to Top</a>||
+&lt;u&gt;||Used to create underlined text.||Example:<br>This is <u>Safron.</u>||<a href="#top">Back to Top</a>||
+&lt;ul&gt;||Creates an unordered list.||Example||<a href="#top">Back to Top</a>||
+&lt;var&gt;||VAR is short for variable, which is used to store data to be used in a calculation or function.||Example:<br><var>the var</var>||<a href="#top">Back to Top</a>||
+&lt;video&gt;||Defines an object where a video file will be played.||Example:<a href="https://www.w3schools.com/tags/tag_video.asp">Click w3schools link</a>||<a href="#top">Back to Top</a>||
+&lt;wbr&gt;||This allows developers to include optional areas to place line breaks when the browser might need one.||Example:<a href="https://www.w3schools.com/tags/tag_wbr.asp"> Click w3schools link</a>||<a href="#top">Back to Top</a>||

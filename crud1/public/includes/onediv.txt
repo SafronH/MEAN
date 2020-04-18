@@ -1,0 +1,6 @@
+<h3>Mission Statement</h3>
+
+<p>Safron’s travel guide&reg; is a family-based family vacation planning service. We stand out by satisfying the needs of our clients through a comprehensive family–friendly guides in destinations around the world smarter, cheaper, and longer.</p>
+
+<h3>Single Div Logo</h3>
+<div class = "parent"><div class="logo"></div></div>

@@ -1,0 +1,43 @@
+<h3>Create, check and delete</h3>
+	<h4>Cookies, Make, Bake, and Take</h4>
+  
+    Testing the buffer: <button onclick="greet()">scriptTest</button>
+    <hr>
+
+    <form name="myform" action="">
+        Enter Cookie name: <input type="text" name="customer" placeholder=" Type here!" />
+        <input type="button" value="Set Cookie" onclick="WriteCookie()" />
+    </form>
+    <hr>
+    <form name="get" action="">
+        Click the following button to <b>Check</b> the previous cookies in the past 24 hours:
+        <input type="button" value="Get Cookie" onclick="ReadCookie()" />
+    </form>
+    <hr>
+    <form name="delete" action="">
+        Click the following button to <b>Delete</b> the previous cookies <input type="text" name="customer" placeholder=" Type here!" />
+        <input type="button" value="delete Cookie" onclick="deleteCookie()" />
+    </form>
+    <div id="printHTMLresults"> </div>
+
+
+    <hr><br>
+    <button onclick="setCookie2()">setCookie2</button>
+    <div id="inputName">cookieFromKASHI</div>
+
+    <hr>
+
+    <button onclick="checkCookieLoad()">checkCookieLoad</button>
+
+    <hr>
+
+    <p>If you click the "Get Cookie" button, it will call the script for the cookies.</p>
+
+    <p>If you click the "Delete Cookie" button, it will call the script for the cookies. and it should delete the previous cookies.</p>
+
+    <h3>set cookie 2</h3>
+    <ul>
+        <li>cookieName = </li>
+        <li>cookieValue = </li>
+        <li>exdays = set up to expire after 5 days</li>
+    </ul>

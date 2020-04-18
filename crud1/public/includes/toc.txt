@@ -1,0 +1,107 @@
+<h3> Table Of Content</h3>
+<table>
+        <tr>
+            <th>MODULE/WEEK</th>
+            <th>COURSEWORK/ACTVITIES</th>
+        </tr>
+        <tr>
+            <td rowspan="2">Module/Week 1</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/introduction.html">Getting Started/Introduction</a></td>
+        </tr>
+		<tr>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/contract.html">Course Contract</a></td>            
+        </tr>
+        <tr>
+            <td rowspan="2">Module/Week 2</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/brand.html">Your own Brand</a></td>
+        </tr>
+        <tr>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/console%20play.pdf">Console Play from Chapters</a></td>            
+        </tr>
+		 <tr>
+            <td rowspan="2">Module/Week 3</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/toc.html">Dynamic TOC</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.codecademy.com/profiles/shaile01">Codecademy</a></td>
+        </tr>
+		
+        <tr>
+            <td rowspan="2">Module/Week 4</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/toc.html">Using Sprites</a></td>
+        </tr>
+        <tr>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/toc.html">A one-div graphic</a></td>
+        </tr>
+       
+		
+        <tr>
+            <td rowspan="2">Module/Week 5</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/codecamp/">FreeCodeCamp</a></td>
+        </tr>
+        <tr>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>Module/Week 6</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/everything.html">Everything HTML</a></td>
+        </tr>
+        <tr>
+            <td>Module/Week 7</td>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/dynamic_everything_html.html">Dynamic Everything HTML</a></td>
+        </tr>
+        <tr>
+            <td rowspan ="1">Module/Week 8</td>
+            <td><a href="">Participants - Introductions</a></td>
+        </tr>
+			
+        <tr>
+            <td rowspan="2">Module/Week 9</td>
+            <td><a href="https://mean2.000webhostapp.com">Evaluate and test out MEAN tutorials</td>
+        </tr>
+        <tr>
+            
+        </tr>
+        <tr>
+            <td>Module/Week 10</td>
+            <td><a href="https://www.codecademy.com/profiles/shaile01">Codecademy - Learn Angular JS 1.X, React JS I, II</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" >Module/Week 11</td>
+            <td><a href="">Do Node.js tutorial</a></td>
+        </tr>
+		<tr>
+            <td><a href="">Demonstrate Work from Lynda.com - Node.js Essential Training</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" >Module/Week 12</td>
+            <td><a href="">Do mongo db tutorial</a></td>
+        </tr>
+		<tr>
+            <td><a href="http://students.cpcc.edu/~shaile01/web215/cookies.html">Cookies! Make, bake, and take...</a></td>
+        </tr>
+		<tr>
+            <td rowspan="2">Module/Week 13</td>
+            <td><a href="">Basic CRUD</a></td>
+        </tr>
+	<tr>
+            <td><a href="">Consolidate Resources</a></td>
+        </tr>
+	<tr>
+            <td rowspan="2">Module/Week 14</td>
+            <td><a href="">Extra credit for Udemy Node.js course</a></td>
+        </tr>
+         <tr>
+            <td><a href="">Host on Heroku</a></td>
+        </tr>
+
+	<tr>
+            <td>Module/Week 15</td>
+            <td><a href="">Host on Heroku - Full Site/Application</a></td>
+        </tr>
+		<tr>
+            <td>Module/Week 16</td>
+            <td><a href="">Start, Stop, Continue: Course review</a></td>
+        </tr>
+    </table></h3>
+

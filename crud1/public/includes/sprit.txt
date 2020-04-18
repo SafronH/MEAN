@@ -1,0 +1,12 @@
+
+<h3>Sprites</h3>
+<p><center>We do the work.You pack up and go!</center></p>
+<div class="sprites">
+  <div class='sprite dub'></div>
+   <p>Oh the places you will go!</p>
+  <div class='sprite paris'></div>
+   <p>Traveling is Learning!</p>
+  <div class='sprite travel'></div>
+   <p>Adventure awaits!</p>
+</div>
+	
