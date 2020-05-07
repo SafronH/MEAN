@@ -11,12 +11,7 @@
     var password = prompt("Please enter the password.");
     if (password===""){
         window.location="404.html";
-    } else if (password!='' && password!=null) {
-        while(password !==""){
-            password = prompt("Please re-enter the password.");
-        }
-        window.location="404.html";
-    }
+    } 
 }
 window.onload=passwordCheck;
      
