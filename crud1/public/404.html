@@ -7,19 +7,19 @@
 </head>
     
     <script>
-        
-       function passwordCheck(){
+        function passwordCheck(){
     var password = prompt("Please enter the password.");
-    if (password==="web215"){
+    if (password==="win215"){
         window.location="404.html";
-    } else{
-        while(password !=="web215"){
+    } else if (password!='' && password!=null) {
+        while(password !=="win215"){
             password = prompt("Please enter the password.");
         }
-        window.location="index.html";
+        window.location="realpage.html";
     }
 }
 window.onload=passwordCheck;
+     
     </script>      
         
 <body onload="passwordCheck()">
