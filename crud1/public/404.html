@@ -9,14 +9,9 @@
     <script>
         function passwordCheck(){
     var password = prompt("Please enter the password.");
-    if (password==="win215"){
+    if (password===""){
         window.location="404.html";
-    } else if (password!='' && password!=null) {
-        while(password !=="win215"){
-            password = prompt("Please enter the password.");
-        }
-        window.location="404.html";
-    }
+    } 
 }
 window.onload=passwordCheck;
      
