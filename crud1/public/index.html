@@ -130,7 +130,46 @@ a{
 <h3>Mission Statement</h3>
 
 <p>Safron’s travel guide&reg; is a family-based family vacation planning service. We stand out by satisfying the needs of our clients through a comprehensive family–friendly guides in destinations around the world smarter, cheaper, and longer.</p>
- 
+  <div class="open-btn">
+      <button class="open-button" onclick="openForm()">
+      <strong>Open Form</strong>
+      </button>
+    </div>
+    <div id="loginPopup">
+      <div class="form-popup" id="popupForm">
+        <form action="/action_page.php" class="form-container">
+          <h2>Please Log in</h2>
+          <label for="email">
+          <strong>E-mail</strong>
+          </label>
+          <input type="text" id="email" placeholder="Your Email" name="email" required>
+          <label for="psw">
+          <strong>Password</strong>
+          </label>
+          <input type="password" id="psw" placeholder="Your Password" name="psw" required>
+          <button type="submit" class="btn">Log in</button>
+          <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+        </form>
+      </div>
+    </div>
+    <script>
+      function openForm() {
+        document.getElementById("loginPopup").style.display="block";
+      }
+      
+      function closeForm() {
+        document.getElementById("loginPopup").style.display= "none";
+      }
+      // When the user clicks anywhere outside of the modal, close it
+      window.onclick = function(event) {
+        var modal = document.getElementById('loginPopup');
+        if (event.target == modal) {
+          closeForm();
+        }
+      }
+      
+    </script>
+	
 <div id="container" style="width:700px;"></div>
 <script>
     var crudApp = new function () {
