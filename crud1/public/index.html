@@ -116,7 +116,18 @@ a{
     color: #3F2860;
 </style>
 </head>
-<body>
+<body onload="passwordCheck()">
+	
+	<script>
+        function passwordCheck(){
+    var password = prompt("Please enter the password.");
+    if (password===""){
+        window.location="404.html";
+    } 
+}
+window.onload=passwordCheck;
+     
+    </script> 
 
 <header>
   <h1>Safron's Travel Guide&reg;</h1>
