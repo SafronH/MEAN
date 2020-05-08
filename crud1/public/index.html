@@ -116,18 +116,34 @@ a{
     color: #3F2860;
 </style>
 </head>
-<body onload="passwordCheck()">
-	
+<body>
 	<script>
-        function passwordCheck(){
-    var password = prompt("Please enter the password.");
-    if (password===""){
-        window.location="index.html";
-    } 
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter Your Password',' ');
+while (testV < 3) {
+if (!pass1)
+history.go(-1);
+if (pass1.toLowerCase() == "letmein") {
+alert('You Got it Right!');
+window.open('protectpage.html');
+break;
 }
-window.onload=passwordCheck;
-     
-    </script> 
+testV+=1;
+var pass1 =
+prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3)
+history.go(-1);
+return " ";
+}
+</script>
+<center>
+<form>
+<input type="button" value="Enter Protected Area" onClick="passWord()">
+</form>
+</center>
+	
 
 <header>
   <h1>Safron's Travel Guide<sup>&#174;</sup></h1>
