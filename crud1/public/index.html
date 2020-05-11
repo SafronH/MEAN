@@ -117,32 +117,32 @@ a{
     color: #3F2860;
 </style>
 </head>
-<body onload="passwordCheck()">
-	<script>
-function passwordCheck(){
-var testV = 1;
-var pass1 = prompt('Please Enter Your Password (web)',' ');
-while (testV < 5) {
-if (!pass1)
-history.go(-1);
-if (pass1.toLowerCase() == "web") {
-alert('You Got it Right!');
-
-break;
-}
-testV+=1;
-var pass1 =
-prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
-}
-if (pass1.toLowerCase()!="password" & testV ==5)
-history.go(-1);
-return " ";
-}
-		
-window.onload=passwordCheck;	
-</script>
-
+<body onload="LogIn()">
 	
+	<script>
+function LogIn(){
+loggedin=false;
+username="";
+password="";
+username=prompt("Username:","");
+username=username.toLowerCase();
+password=prompt("Password:","");
+password=password.toLowerCase();
+if (username=="guest" && password=="login") { 
+loggedin=true;
+window.location="index.html";
+}
+if (username=="guest2" && password=="login2") {
+loggedin=true;
+window.location="index2.html";
+}
+if (loggedin==false) {
+alert("Invalid login!");
+}
+}
+window.onload=passwordCheck;	
+		
+</script> 
 
 <header>
   <h1>Safron's Travel Guide<sup>&#174;</sup></h1>
